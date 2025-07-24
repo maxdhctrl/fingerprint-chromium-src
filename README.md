@@ -1,3 +1,5 @@
+# [THIS WAS PRODUCED BY ME, ORIGINAL CODE HERE](https://github.com/adryfish/fingerprint-chromium)
+
 # ungoogled-chromium
 
 *A lightweight approach to removing Google web service dependency*
